@@ -1,6 +1,6 @@
 # 🚀 JumpMan - A High-Flying Adventure 🎮
 
-Welcome to JumpMan, my debut game creation crafted with love using Unity! This game is a thrilling 2D platformer that will keep you on your toes as you navigate through its current lineup of 4 exhilarating levels. But hold on tight, because this is just the beginning - there's a whole lot more excitement coming your way in future updates! 🌟
+Welcome to JumpMan, my debut game creation crafted with love using Unity! This game is a thrilling 2D platformer that will keep you on your toes as you navigate through its current lineup of 4 exhilarating levels! 🌟
 
 ## 🎉 Get Started in a Flash! ⚡
 
